@@ -1,0 +1,247 @@
+[
+  {
+    "text": "Send a shampoo bottle to room 305.",
+    "labels": [
+      ["shampoo bottle", "ITEM"],
+      ["room 305", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Deliver a pillow to the executive suite.",
+    "labels": [
+      ["pillow", "ITEM"],
+      ["executive suite", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Fix the broken TV in the conference room.",
+    "labels": [
+      ["broken TV", "ITEM"],
+      ["conference room", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Send three bottles of sparkling water to the rooftop lounge.",
+    "labels": [
+      ["three bottles of sparkling water", "ITEM"],
+      ["rooftop lounge", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Deliver extra blankets to room 410.",
+    "labels": [
+      ["extra blankets", "ITEM"],
+      ["room 410", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Provide fresh towels to the fitness center.",
+    "labels": [
+      ["fresh towels", "ITEM"],
+      ["fitness center", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Repair the air conditioning unit in the main lobby.",
+    "labels": [
+      ["air conditioning unit", "ITEM"],
+      ["main lobby", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Send a hair dryer to the spa treatment room.",
+    "labels": [
+      ["hair dryer", "ITEM"],
+      ["spa treatment room", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Deliver breakfast to the presidential suite.",
+    "labels": [
+      ["breakfast", "ITEM"],
+      ["presidential suite", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Replace the faulty light bulb in room 507.",
+    "labels": [
+      ["faulty light bulb", "ITEM"],
+      ["room 507", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Send a bottle of wine to the penthouse suite.",
+    "labels": [
+      ["bottle of wine", "ITEM"],
+      ["penthouse suite", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Deliver the projector to the meeting room.",
+    "labels": [
+      ["projector", "ITEM"],
+      ["meeting room", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Fix the internet connection in the business center.",
+    "labels": [
+      ["internet connection", "ITEM"],
+      ["business center", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Send extra pillows to room 220.",
+    "labels": [
+      ["extra pillows", "ITEM"],
+      ["room 220", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Deliver a tray of cookies to the children's play area.",
+    "labels": [
+      ["tray of cookies", "ITEM"],
+      ["children's play area", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Check the air conditioner in room 305.",
+    "labels": [
+      ["air conditioner", "ITEM"],
+      ["room 305", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Replace the wake-up clock in room 202.",
+    "labels": [
+      ["wake-up clock", "ITEM"],
+      ["room 202", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Restock the amenities basket in the deluxe suite.",
+    "labels": [
+      ["amenities basket", "ITEM"],
+      ["deluxe suite", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Change the bath mat in the second-floor bathroom.",
+    "labels": [
+      ["bath mat", "ITEM"],
+      ["second-floor bathroom", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Fix the bedroom lamp in the master suite.",
+    "labels": [
+      ["bedroom lamp", "ITEM"],
+      ["master suite", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Replace the comforter in room 1101.",
+    "labels": [
+      ["comforter", "ITEM"],
+      ["room 1101", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Repair the window shades in the living area.",
+    "labels": [
+      ["window shades", "ITEM"],
+      ["living area", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Restock the hand soap in the guest bathroom.",
+    "labels": [
+      ["hand soap", "ITEM"],
+      ["guest bathroom", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Send a case of mineral water to the gym.",
+    "labels": [
+      ["case of mineral water", "ITEM"],
+      ["gym", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Clean the carpet in the conference room.",
+    "labels": [
+      ["carpet", "ITEM"],
+      ["conference room", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Install a new TV set in the lounge.",
+    "labels": [
+      ["TV set", "ITEM"],
+      ["lounge", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Set up the game console in the entertainment area.",
+    "labels": [
+      ["game console", "ITEM"],
+      ["entertainment area", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Deliver fresh towels to the gymnasium.",
+    "labels": [
+      ["fresh towels", "ITEM"],
+      ["gymnasium", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Send drinks to the poolside cabana.",
+    "labels": [
+      ["drinks", "ITEM"],
+      ["poolside cabana", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Replace the magazines in the lounge.",
+    "labels": [
+      ["magazines", "ITEM"],
+      ["lounge", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Check the inventory in the storage area on level 4.",
+    "labels": [
+      ["inventory", "ITEM"],
+      ["storage area on level 4", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Repair the tools in the maintenance room.",
+    "labels": [
+      ["tools", "ITEM"],
+      ["maintenance room", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Deliver the package to the front office.",
+    "labels": [
+      ["package", "ITEM"],
+      ["front office", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Set up the decorations in the main hall.",
+    "labels": [
+      ["decorations", "ITEM"],
+      ["main hall", "LOCATION"]
+    ]
+  },
+  {
+    "text": "Check the temperature of the water in the spa.",
+    "labels": [
+      ["temperature of the water", "ITEM"],
+      ["spa", "LOCATION"]
+    ]
+  }
+]
