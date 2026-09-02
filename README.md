@@ -3,14 +3,15 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
-<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/NLP-Transformers%20%7C%20LLMs-FFD21E.svg?logo=huggingface&logoColor=black" alt="NLP">
+<img src="https://img.shields.io/badge/Python-3.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/spaCy-v3.5+-09A3D5.svg?logo=spacy&logoColor=white" alt="spaCy">
+<img src="https://img.shields.io/badge/Embeddings-SentenceTransformers-FF6F00.svg" alt="SentenceTransformers">
 <img src="https://img.shields.io/badge/API-FastAPI-009688.svg?logo=fastapi&logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
 **Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
 
-[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
 </div>
 
@@ -211,6 +212,8 @@ Content-Type: application/json
 ## License
 
 This project is licensed under the **Apache License 2.0** — see the [LICENSE](LICENSE) file for complete details.
+
+---
 
 ---
 
