@@ -31,31 +31,10 @@ In luxury hospitality operations, front-desk and concierge staff receive thousan
 
 ## System Architecture
 
-```mermaid
-flowchart TD
-    subgraph Input Processing
-        A[Unstructured Guest Dispatch / Voice STT] --> B[Text Normalization & Tokenizer]
-    end
-
-    subgraph Stage 1: Custom spaCy Transition-Based NER
-        B --> C[tok2vec Convolutional Embedding Layer]
-        C --> D[Transition-Based Entity Recognizer]
-        D --> E[Extracted Entity Spans: LOCATION & ITEM]
-    end
-
-    subgraph Stage 2: Dense Vector Semantic Mapping
-        E --> F[SentenceTransformer Dense Encoder]
-        G[(Canonical Hotel Inventory & Room Taxonomies)] --> H[Pre-computed Vector Embeddings]
-        F --> I[Cosine Similarity Matrix]
-        H --> I
-        I --> J[Thresholded Entity Normalizer]
-    end
-
-    subgraph Output & Dispatch
-        J --> K[FastAPI Microservice Engine]
-        K --> L[Structured JSON Work Order for Hotel PMS / ERP]
-    end
-```
+<div align="center">
+  <img src="plots/architecture_pipeline.png" alt="Automated Hotel Operations NER and Dispatch Pipeline Architecture" width="100%">
+  <p><em>Figure 1: End-to-End Hotel Operations NER and Dispatch Architecture, showing multi-channel guest request intake, linguistic preprocessing, two-stage transition-based NER (tok2vec) and dense vector semantic mapping, and automated PMS/ERP work order integration.</em></p>
+</div>
 
 ---
 
